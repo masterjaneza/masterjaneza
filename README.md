@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm MasterJaneza</h1>
 <h3 align="center">I'm a dedicated and passionate programmer with a wealth of experience across various technologies. My work ethic is driven by a genuine love for coding and a relentless pursuit of excellence. As a workaholic by nature, I thrive in challenging environments, always pushing the boundaries of what's possible. My commitment to continuous learning ensures that I stay ahead of the curve, delivering innovative solutions that make a difference. Whether it's tackling complex problems or refining the smallest details, I bring energy, focus, and a deep sense of pride to everything I do.</h3>
 
+<img src="https://raw.githubusercontent.com/adamgiebl/adamgiebl/master/pixel.gif" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterjaneza&label=Profile%20views&color=0e75b6&style=flat" alt="masterjaneza" /> </p>
 
