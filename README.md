@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm MasterJaneza</h1>
 <h3 align="center">I'm a dedicated and passionate programmer with a wealth of experience across various technologies. My work ethic is driven by a genuine love for coding and a relentless pursuit of excellence. As a workaholic by nature, I thrive in challenging environments, always pushing the boundaries of what's possible. My commitment to continuous learning ensures that I stay ahead of the curve, delivering innovative solutions that make a difference. Whether it's tackling complex problems or refining the smallest details, I bring energy, focus, and a deep sense of pride to everything I do.</h3>
 
-<img src="https://cdn.dribbble.com/users/3089141/screenshots/10144752/ezgif-2-8a59ae3e3cf9.gif" width="300"> <img src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif" width="300"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterjaneza&label=Profile%20views&color=0e75b6&style=flat" alt="masterjaneza" /> </p>
 
