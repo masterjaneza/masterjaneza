@@ -24,6 +24,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,threejs,ts,py,figma,mongodb,mysql,vscode,vite,replit,npm,babel,git,github,discord)](https://skillicons.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterjaneza&show_icons=true&theme=cobalt)
 
 <br />
@@ -31,4 +33,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masterjaneza&" alt="masterjaneza" /></p>
 
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
