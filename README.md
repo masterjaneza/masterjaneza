@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,threejs,ts,py,vscode,vite,replit,npm,babel,git,github,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,threejs,ts,py,figma,MongoDB,MySQL,vscode,vite,replit,npm,babel,git,github,discord)](https://skillicons.dev)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masterjaneza&show_icons=true&locale=en&layout=compact" alt="masterjaneza" /></p>
