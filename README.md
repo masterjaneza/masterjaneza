@@ -22,7 +22,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,threejs,ts,py,figma,mongodb,mysql,vscode,vite,replit,npm,babel,git,github,discord)](https://skillicons.dev) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,threejs,ts,py,figma,mongodb,mysql,vscode,vite,replit,npm,babel,git,github,discord)](https://skillicons.dev) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+ ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
