@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,threejs,ts,py,figma,mongodb,mysql,vscode,vite,replit,npm,babel,git,github,discord)](https://skillicons.dev)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masterjaneza&show_icons=true&locale=en&layout=compact" alt="masterjaneza" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masterjaneza&show_icons=true&locale=en" alt="masterjaneza" /></p>
 
