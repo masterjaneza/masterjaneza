@@ -25,6 +25,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,threejs,ts,py,figma,mongodb,mysql,vscode,vite,replit,npm,babel,git,github,discord)](https://skillicons.dev)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterjaneza&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterjaneza&show_icons=true&theme=gruvbox)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masterjaneza&" alt="masterjaneza" /></p>
