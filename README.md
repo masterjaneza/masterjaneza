@@ -24,7 +24,7 @@
 
 ## Frontend 🎨 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs,ts,jquery,)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,threejs,ts,jquery,svg)](https://skillicons.dev)  
 
 
 ## Backend 🛠️
@@ -34,12 +34,12 @@
 
 ## DevTools & Build Tools & IDEs/Editors 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,vite,replit,npm,babel,netlify,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,powershell,vite,replit,npm,babel,netlify,vercel,windows)](https://skillicons.dev)
 
 
 ## Social 🌐
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,discord,gmail)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow,git,github,gitlab,discord,gmail,Instagram,twitter)](https://skillicons.dev)
 
 
 ## Photoshop & UI/UX 📷
