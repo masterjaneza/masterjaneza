@@ -39,7 +39,7 @@
 
 ## Social 🌐
 
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow,git,github,gitlab,discord,gmail,Instagram,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow,git,github,gitlab,discord,gmail,instagram,twitter)](https://skillicons.dev)
 
 
 ## Photoshop & UI/UX 📷
