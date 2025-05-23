@@ -22,16 +22,37 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,threejs,ts,jquery,py,figma,ps,mongodb,mysql,vscode,vite,replit,npm,babel,git,github,discord,gmail,netlify,vercel)](https://skillicons.dev)  
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) ![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white)
+## Frontend 🎨 
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs,ts,jquery,)](https://skillicons.dev)  
+
+
+## Backend 🛠️
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,mongodb,mysql)](https://skillicons.dev)
+
+
+## DevTools & Build Tools & IDEs/Editors 🛠️
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,vite,replit,npm,babel,netlify,vercel)](https://skillicons.dev)
+
+
+## Social 🌐
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,discord,gmail)](https://skillicons.dev)
+
+
+## Photoshop & UI/UX 📷
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+
+## Browsers 🌐
+
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) ![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white)
+
+## Other Platforms 🌐
+
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
-
-
-
 
 
 
@@ -44,5 +65,3 @@
 <br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masterjaneza&" alt="masterjaneza" /></p>
-
-
